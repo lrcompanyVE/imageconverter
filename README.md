@@ -42,7 +42,7 @@ sudo apt install python3-tk
 
 ## 🧸 Si tienes Windows
 
-Dado el caso de que tengas windows,este sistema proporciona la extencion ```.pyw ``` el cual ejecuta el archivo sin la terminal abierta
+Dado el caso de que tengas windows,este sistema proporciona la extencion ```.pyw ``` el cual ejecuta el archivo sin la necesidad de tener la terminal abierta
 
 ## 📋 Características
 - Conversión entre múltiples formatos: PNG, JPG, WEBP e ICON.
