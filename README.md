@@ -18,7 +18,7 @@ sudo apt install python3-tk
    ```
 3. Ejecuta la aplicación:
    ```bash
-   python3 main.py
+   python3 converterv2.py
    ```
 
 ## 📋 Características
