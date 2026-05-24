@@ -12,6 +12,7 @@ sudo apt install python3-tk
 ## 🛠️ Instalación y Uso
 
 1. Clona este repositorio o descarga el código.
+   
 2. Instala las dependencias necesarias:
    ```bash
    pip install -r requirements.txt
