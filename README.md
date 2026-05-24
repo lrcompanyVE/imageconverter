@@ -22,6 +22,5 @@ sudo apt install python3-tk
    ```
 
 ## 📋 Características
-- Interfaz moderna con soporte para modo oscuro automático.
 - Conversión entre múltiples formatos: PNG, JPG, WEBP e ICON.
 - Detección inteligente de rutas multiplataforma.
