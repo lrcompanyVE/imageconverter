@@ -50,6 +50,6 @@ Dado el caso de que tengas windows,este sistema proporciona la extencion ```.pyw
 
 ## 🔥 Licencia
 
--Licencia MIT
+- Licencia MIT
 
 
